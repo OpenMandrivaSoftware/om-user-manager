@@ -21,10 +21,6 @@
 #define CONST_H
 
 
-#define LOCALE_GEN              "/etc/locale.gen"
-#define LOCALE_CONF              "/etc/locale.conf"
-#define LOCALESSUPPORTED "/usr/share/i18n/SUPPORTED"
-#define LOCALESINFO "/usr/share/i18n/LOCALESINFO"
 #define MIN_USER_UUID 1000
 #define PASSWD "/etc/passwd"
 #define GROUPCONF "/etc/group"
