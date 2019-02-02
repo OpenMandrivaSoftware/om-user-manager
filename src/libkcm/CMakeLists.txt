@@ -11,8 +11,6 @@ set_source_files_properties(
 
 set(LIBMSM_SRCS
     ActionDialog.cpp
-    LanguageCommon.cpp
-
     ${KDSINGLEAPPLICATIONGUARD})
 
 cmake_policy(SET CMP0063 NEW)
