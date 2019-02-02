@@ -24,7 +24,7 @@
 #define MIN_USER_UUID 1000
 #define PASSWD "/etc/passwd"
 #define GROUPCONF "/etc/group"
-#define FACES_IMAGE_FOLDER "/usr/share/pixmaps/faces"
+#define FACES_IMAGE_FOLDER "/usr/share/om-user-manager/faces"
 #define DEFAULT_USER_GROUPS "audio,video,lp,network,sambashare,storage,users"
 #define ADMIN_GROUP "wheel"
 #define SUDOERSFILE "/etc/sudoers"
